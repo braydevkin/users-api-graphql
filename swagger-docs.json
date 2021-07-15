@@ -1,0 +1,1 @@
+{"openapi":"3.0.0","info":{"title":"API With Mongoose","description":"API With Mongoose","version":"0.0.1","contact":{}},"tags":[],"servers":[],"components":{"securitySchemes":{"bearer":{"scheme":"bearer","bearerFormat":"JWT","type":"http"}}},"paths":{}}
